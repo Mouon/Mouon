@@ -1,6 +1,5 @@
 ## 항상 배우는 개발자입니다! 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mouon&layout=compact)
-<!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mouon&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)<!--
 **Mouon/Mouon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
