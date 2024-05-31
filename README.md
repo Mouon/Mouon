@@ -1,8 +1,8 @@
-## 항상 배우는 개발자입니다! 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mouon&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Mouon&fontSize=90)
+# 항상 배우려는 개발자입니다!
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mouon&hide=contribs,prs&show_icons=true&theme=테마)
 <!--
 **Mouon/Mouon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
