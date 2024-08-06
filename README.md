@@ -25,7 +25,7 @@ KUIT 2기 서버 파트
 ### 📚 Study Repository
 [스프링 부트 공부기록](https://github.com/Mouon/Mouon-SpringBoot-STUDY)  
 [JPA 공부 - 인프런 ](https://github.com/Mouon/SpringJPAStudy)  
-[알고리즘 공부 ](https://github.com/Mouon/Beakjune2024/tree/master)
+[알고리즘 공부 ](https://github.com/Mouon/Beakjune2024/tree/master)  
 [이슈 허브 - 이것 저것 적용해보기 공부용 ](https://github.com/Mouon/issuehub)  
 
 ------------------------
