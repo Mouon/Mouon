@@ -5,13 +5,18 @@
     <img src="contributions.svg" />
 </a>
 
-------------------------  
 
 ### 🤝 SNS
 <a href="https://moon-kotlin.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a><a href="mailto:ahemsapsldk@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/>  
 ------------------------
 
+### 🏋🏻 Activity
+
+KUIT 1기 안드로이드 파트  
+KUIT 2기 서버 파트
+
+------------------------  
 
 ### ⚔️ Skill 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/><img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
