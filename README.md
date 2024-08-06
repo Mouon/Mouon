@@ -21,13 +21,12 @@
 [스프링 부트 공부기록](https://github.com/Mouon/Mouon-SpringBoot-STUDY)  
 [JPA 공부 - 인프런 ](https://github.com/Mouon/SpringJPAStudy)  
 [알고리즘 공부 ](https://github.com/Mouon/Beakjune2024/tree/master)
-
+[이슈 허브 - 이것 저것 적용해보기 공부용 ](https://github.com/Mouon/issuehub)  
 ------------------------
 
 ### 🔥 Projects Repository 
 [링코드 - BE](https://github.com/Linkode2024/Linkode2024_BE)  
 [챗 다이어리 - BE](https://github.com/Chat-Diary/BE)  
-[이슈 허브 - BE](https://github.com/Mouon/issuehub)  
 [방울이 - FE](https://github.com/Mouon/bangwool-frontend-android)  
 
 ------------------------
