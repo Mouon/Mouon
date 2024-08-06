@@ -33,7 +33,7 @@ KUIT 2기 서버 파트
 ### 🔥 Projects Repository 
 [링코드 - BE](https://github.com/Linkode2024/Linkode2024_BE)  
 [챗 다이어리 - BE](https://github.com/Chat-Diary/BE)  
-https://www.notion.so/2572e6af65544c4bb419954efa829468?pvs=4#d7b48ac4c83949c582527e5c182c5dd7  
+https://www.behance.net/gallery/192482813/-ChatDiary
 [방울이 - FE](https://github.com/Mouon/bangwool-frontend-android)  
 
 ------------------------
