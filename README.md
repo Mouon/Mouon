@@ -41,7 +41,8 @@ KUIT 2기 서버 파트 수료
 ------------------------
 
 ### 🚀 Stat 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ahemsapsldk)](https://solved.ac/ahemsapsldk)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ahemsapsldk)](https://solved.ac/ahemsapsldk)
+<img src="http://mazandi.herokuapp.com/api?handle=ahemsapsldk&theme=Cold"/>  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mouon&layout=compact&theme=dark"/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mouon&hide=contribs,prs&show_icons=true&theme=테마)  
 ------------------------
