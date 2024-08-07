@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Mouon&fontSize=90)
 # 안녕하세요!🙌 배우는 것이 즐거운 개발자입니다!  
+### 스프링을 주로 공부 공부중
   
 <a href="https://github.com/Mouon">
     <img src="contributions.svg" />
@@ -23,7 +24,7 @@ KUIT 2기 서버 파트 수료
 ------------------------
 
 ### 📚 Study Repository
-[⭐️ 스프링 부트 공부기록](https://github.com/Mouon/Mouon-SpringBoot-STUDY)  
+[⭐️ 스프링 부트 공부기록 ⭐️](https://github.com/Mouon/Mouon-SpringBoot-STUDY)  
 [JPA 공부 - 인프런 ](https://github.com/Mouon/SpringJPAStudy)  
 [알고리즘 공부 ](https://github.com/Mouon/Beakjune2024/tree/master)  
 [이슈 허브 - 이것 저것 적용해보기 공부용 ](https://github.com/Mouon/issuehub)  
