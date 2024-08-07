@@ -1,10 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Mouon&fontSize=90)
-# 안녕하세요!🙌 배우는 것이 즐거운 개발자입니다!  
-### 스프링을 주로 공부 공부중
-  
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead" height="400" width="100%">  
+
+<h1 align="center">안녕하세요! 🙌 배우는 것이 즐거운 개발자입니다!!
+
+<h3 align="center"> Spring Boot를 주로 공부중 입니다! </h3>  
 <a href="https://github.com/Mouon">
     <img src="contributions.svg" />
-</a>
+</a>  
 
 
 ### 🤝 SNS
