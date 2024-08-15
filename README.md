@@ -15,8 +15,20 @@
 
 ### 🏋🏻 Activity
 
-건국대학교(본교) 컴퓨터 공학부 재학중  
-KUIT 1기 안드로이드 파트 수료  
+<p style="display: flex; align-items: center; margin: 0;">
+    <img height="20" 
+         src="https://i.namu.wiki/i/E4gAwg65fMroWtXG5POYiwcGseYpmfhrm9fYxCzSqXThXDMEG9yZAjkkq8_bQEkrIjAQZrQSObatdE-eDp86xQ.svg" 
+         style="margin-right: 5px;">
+        <img height="20" 
+         src="https://avatars.githubusercontent.com/u/140745540?s=200&v=4" 
+         style="margin-right: 5px;">
+        <img height="20" 
+         src="https://avatars.githubusercontent.com/u/140745540?s=200&v=4" 
+         style="margin-right: 5px;">
+</p>  
+
+건국대학교(본교) 컴퓨터 공학부 재학중   
+KUIT 1기 안드로이드 파트 수료       
 KUIT 2기 서버 파트 수료
 
 ------------------------  
