@@ -1,5 +1,5 @@
 <h3 align="center">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmszeHZiemhvY240M3VlMmxpaDh6d2Rra2Y4N3hsbGlpYXdrdXM5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QJY9tY29IQGMU/giphy.webp" alt="MasterHead" height="400" width="70%">  
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmszeHZiemhvY240M3VlMmxpaDh6d2Rra2Y4N3hsbGlpYXdrdXM5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QJY9tY29IQGMU/giphy.webp" alt="MasterHead" height="370" width="70%">  
 </h3> 
 
 <h1 align="center">안녕하세요! 🙌 배우는 것이 즐거운 개발자입니다!!
