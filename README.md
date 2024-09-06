@@ -56,6 +56,11 @@ KUIT 2기 서버 파트 수료
 [방울이 - FE](https://github.com/Mouon/bangwool-frontend-android)  
 
 ------------------------
+### UNIV 
+[건국대 - 클라우드수업](https://github.com/everyCulture/everyoneCulture)
+[건국대 - HCI 수업](https://github.com/NoNextYear/Android)
+
+------------------------
 
 ### 🚀 Stat 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ahemsapsldk)](https://solved.ac/ahemsapsldk)
