@@ -62,9 +62,11 @@ KUIT 2기 서버 파트 수료
 
 ------------------------
 
-### 🚀 Stat 
+### 🚀 Stat   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mouon&layout=compact&theme=dark"/>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mouon&hide=contribs,prs&show_icons=true&theme=테마)  
+
 ------------------------
 
 
