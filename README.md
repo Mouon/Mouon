@@ -49,6 +49,11 @@ KUIT 2기 서버 파트 수료
 [알고리즘 공부 ](https://github.com/Mouon/Beakjune2024/tree/master)  
 [이슈 허브 - 이것 저것 적용해보기 공부용 토이 프로젝트(막코딩)](https://github.com/Mouon/issuehub)  
 
+#### Recently Posting
+[정적팩토리메소드와 빌드패턴](https://github.com/Mouon/Mouon-SpringBoot-STUDY/blob/master/study/builderPattern/StaticFactory.md)  
+[💆🏻‍♂️💆🏻‍♂️더티체킹에대한 고민](https://github.com/Mouon/Mouon-SpringBoot-STUDY/blob/master/study/DirtyChecking.md)  
+[🔥🔥Querydsl로 페이징 처리🔥🔥<Querydsl의 강력함>](https://github.com/Mouon/Mouon-SpringBoot-STUDY/blob/master/study/queryDSL/DslPractice.md)
+
 ------------------------
 
 ### 🔥 Projects Repository 
