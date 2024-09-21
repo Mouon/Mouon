@@ -65,7 +65,7 @@ KUIT 2기 서버 파트 수료
 ------------------------
 
 ### 🔥 Projects Repository 
-[링코드 - BE](https://github.com/Linkode2024/Linkode2024_BE)  
+[링코드 - BE](https://github.com/Linkode2024)    
 [챗 다이어리 - BE](https://github.com/Chat-Diary/BE)  
 [챗 다이어리 - behance](https://www.behance.net/gallery/192482813/-ChatDiary)  
 [방울이 - FE](https://github.com/Mouon/bangwool-frontend-android)  
