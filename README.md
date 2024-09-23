@@ -38,9 +38,8 @@ KUIT 2기 서버 파트 수료
 
 
 ### 🏋🏻 Opensource Contribute
-[QueryDSL](https://github.com/OpenFeign/querydsl/pull/590) : [😲 Querydsl 오픈소스 컨트리뷰션이 되다! 😲](https://github.com/Mouon/Mouon-SpringBoot-STUDY/blob/master/study/queryDSL/firstContridutor.md)  
-
-
+[QueryDSL](https://github.com/OpenFeign/querydsl/pull/590) : [😲 Querydsl 오픈소스 컨트리뷰션이 되다! 😲](https://github.com/Mouon/Mouon-SpringBoot-STUDY/blob/master/study/queryDSL/firstContridutor.md)    
+[QueryDSL-release](https://github.com/OpenFeign/querydsl/releases/tag/6.8)  
 
 ------------------------  
 
