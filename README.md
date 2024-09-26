@@ -1,5 +1,7 @@
 <h3 align="center">
-<img src="https://github.com/user-attachments/assets/fd4c0965-9de3-431f-ae86-657e02e6eb32" alt="MasterHead" height="370" width="70%">  
+    
+<img src="https://github.com/user-attachments/assets/50472e82-05e1-4b15-8c74-b9da858c55c7" alt="MasterHead" height="370" width="70%">  
+
 </h3> 
 
 <h1 align="center">안녕하세요! 🙌 배우는 것이 즐거운 개발자입니다!!
@@ -8,7 +10,6 @@
 <a href="https://github.com/Mouon">
     <img src="contributions.svg" />
 </a>  
-
 
 ### 🤝 SNS
 <a href="https://moon-kotlin.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a><a href="mailto:ahemsapsldk@gmail.com" target="_blank">
