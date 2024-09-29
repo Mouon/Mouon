@@ -57,11 +57,12 @@ KUIT 2기 서버 파트 수료
 [이슈 허브 - 이것 저것 적용해보기 공부용 토이 프로젝트(막코딩)](https://github.com/Mouon/issuehub)  
 
 #### Recently Posting
-[정적팩토리메소드와 빌드패턴](https://github.com/Mouon/Mouon-SpringBoot-STUDY/blob/master/study/builderPattern/StaticFactory.md)  
 [💆🏻‍♂️💆🏻‍♂️더티체킹에대한 고민](https://github.com/Mouon/Mouon-SpringBoot-STUDY/blob/master/study/DirtyChecking.md)  
 [🔥🔥Querydsl로 페이징 처리🔥🔥<Querydsl의 강력함>](https://github.com/Mouon/Mouon-SpringBoot-STUDY/blob/master/study/queryDSL/DslPractice.md)  
 [😲 Querydsl 오픈소스 컨트리뷰션이 되다! 😲](https://github.com/Mouon/Mouon-SpringBoot-STUDY/blob/master/study/queryDSL/firstContridutor.md)  
-[WebClient 맛보기](https://github.com/Mouon/Mouon-SpringBoot-STUDY/blob/master/study/webClient.md)  
+[👨🏼‍💻 WebClient 맛보기](https://github.com/Mouon/Mouon-SpringBoot-STUDY/blob/master/study/webClient.md)  
+[🚀 자료실 조회 성능에 인덱싱 ](https://github.com/Mouon/Mouon-SpringBoot-STUDY/blob/master/study/index/Index_Query_1.md)
+
   
 ------------------------
 
