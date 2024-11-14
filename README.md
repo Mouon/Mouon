@@ -55,7 +55,7 @@ KUIT 2기 서버 파트 수료
 [JPA 공부 - 인프런 ](https://github.com/Mouon/SpringJPAStudy)  
 [알고리즘 공부 ](https://github.com/Mouon/Beakjune2024/tree/master)  
 [이슈 허브 - 이것 저것 적용해보기 공부용 토이 프로젝트(막코딩)](https://github.com/Mouon/issuehub)  
-[🫤 멱등키 기본구현 해보기](https://github.com/Mouon/Mouon-SpringBoot-STUDY/tree/master/study)  
+ 
 
 
 #### Recently Posting
@@ -64,7 +64,7 @@ KUIT 2기 서버 파트 수료
 [😲 Querydsl 오픈소스 컨트리뷰션이 되다! 😲](https://github.com/Mouon/Mouon-SpringBoot-STUDY/blob/master/study/queryDSL/firstContridutor.md)  
 [👨🏼‍💻 WebClient 맛보기](https://github.com/Mouon/Mouon-SpringBoot-STUDY/blob/master/study/webClient.md)  
 [😲JPA와 Stream의 조합 예시](https://github.com/Mouon/Mouon-SpringBoot-STUDY/blob/master/study/streamfilter_1.md)  
-
+[🫤 멱등키 기본구현 해보기](https://github.com/Mouon/Mouon-SpringBoot-STUDY/tree/master/study)  
   
 
   
