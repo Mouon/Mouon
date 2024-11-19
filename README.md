@@ -65,7 +65,7 @@ KUIT 2기 서버 파트 수료
 [👨🏼‍💻 WebClient 맛보기](https://github.com/Mouon/Mouon-SpringBoot-STUDY/blob/master/study/webClient.md)  
 [😲JPA와 Stream의 조합 예시](https://github.com/Mouon/Mouon-SpringBoot-STUDY/blob/master/study/streamfilter_1.md)  
 [🫤 멱등키 기본구현 해보기](https://github.com/Mouon/Mouon-SpringBoot-STUDY/blob/master/study/IdempotencyKey.md)  
-[람다사용하면서 느낀 스프링과 차이점](https://github.com/Mouon/Mouon-SpringBoot-STUDY/tree/master/study)  
+[람다사용하면서 느낀 스프링과 차이점](https://github.com/Mouon/Mouon-SpringBoot-STUDY/blob/master/study/Lambda.md)  
 
   
 ------------------------
