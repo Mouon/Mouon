@@ -56,8 +56,7 @@ KUIT 2기 서버 파트 수료
 [⭐️ 스프링 부트 공부기록 ⭐️](https://github.com/Mouon/Mouon-SpringBoot-STUDY)  
 [JPA 공부 - 인프런 ](https://github.com/Mouon/SpringJPAStudy)  
 [알고리즘 공부 ](https://github.com/Mouon/Beakjune2024/tree/master)  
-[이슈 허브 - 이것 저것 적용해보기 공부용 토이 프로젝트(막코딩)](https://github.com/Mouon/issuehub)  
- 
+[이슈 허브 - 이것 저것 적용해보기 공부용 토이 프로젝트(막코딩)](https://github.com/Mouon/issuehub)   
 
 
 #### Recently Posting  
@@ -68,7 +67,7 @@ KUIT 2기 서버 파트 수료
 [😲JPA와 Stream의 조합 예시](https://github.com/Mouon/Mouon-SpringBoot-STUDY/blob/master/study/streamfilter_1.md)  
 [🫤 멱등키 기본구현 해보기](https://github.com/Mouon/Mouon-SpringBoot-STUDY/blob/master/study/IdempotencyKey.md)  
 [람다사용하면서 느낀 스프링과 차이점](https://github.com/Mouon/Mouon-SpringBoot-STUDY/blob/master/study/Lambda.md)  
-
+[비관적 락의 이해(스터디룸 동시 가입 제어하기)](https://github.com/Mouon/Mouon-SpringBoot-STUDY/blob/master/study/Pessimistic_Lock.md)  
   
 ------------------------
 
