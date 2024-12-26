@@ -67,7 +67,7 @@ KUIT 2기 서버 파트 수료
 [🫤 멱등키 기본구현 해보기](https://github.com/Mouon/Mouon-SpringBoot-STUDY/blob/master/study/IdempotencyKey.md)  
 [람다사용하면서 느낀 스프링과 차이점](https://github.com/Mouon/Mouon-SpringBoot-STUDY/blob/master/study/Lambda.md)  
 [🔐비관적 락의 이해(스터디룸 동시 가입 제어하기)](https://github.com/Mouon/Mouon-SpringBoot-STUDY/blob/master/study/Pessimistic_Lock.md)  
-- [🧐 스터디룸 가입관련 로직 리펙토링](https://github.com/Mouon/Mouon-SpringBoot-STUDY/blob/master/study/Refactor_1.md)  
+[🧐 스터디룸 가입관련 로직 리펙토링](https://github.com/Mouon/Mouon-SpringBoot-STUDY/blob/master/study/Refactor_1.md)  
   
 ------------------------
 
