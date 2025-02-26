@@ -65,13 +65,13 @@ KUIT 2기 서버 파트 수료
 
 #### Recently Posting  
 
-[👨🏼‍💻 WebClient 맛보기](https://github.com/Mouon/Mouon-SpringBoot-STUDY/blob/master/study/webClient.md)  
 [😲JPA와 Stream의 조합 예시](https://github.com/Mouon/Mouon-SpringBoot-STUDY/blob/master/study/streamfilter_1.md)  
 [🫤 멱등키 기본구현 해보기](https://github.com/Mouon/Mouon-SpringBoot-STUDY/blob/master/study/IdempotencyKey.md)  
 [람다사용하면서 느낀 스프링과 차이점](https://github.com/Mouon/Mouon-SpringBoot-STUDY/blob/master/study/Lambda.md)  
 [🔐비관적 락의 이해(스터디룸 동시 가입 제어하기)](https://github.com/Mouon/Mouon-SpringBoot-STUDY/blob/master/study/Pessimistic_Lock.md)  
 [🧐 스터디룸 가입관련 로직 리펙토링](https://github.com/Mouon/Mouon-SpringBoot-STUDY/blob/master/study/Refactor_1.md)  
-[synchronized에서 분산락까지](https://github.com/Mouon/Mouon-SpringBoot-STUDY/blob/master/study/Redisson.md)   
+[synchronized에서 분산락까지](https://github.com/Mouon/Mouon-SpringBoot-STUDY/blob/master/study/Redisson.md)  
+[😲QueryDSL을 활용한 동적 쿼리 적용하기](https://github.com/Mouon/Mouon-SpringBoot-STUDY/blob/master/study/queryDSL/DynamicQuery.md)  
 
 ------------------------
 
