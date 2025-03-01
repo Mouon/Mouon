@@ -80,6 +80,7 @@ KUIT 2기 서버 파트 수료
 [챗 다이어리 - BE](https://github.com/Chat-Diary/BE)  
 [챗 다이어리 - behance](https://www.behance.net/gallery/192482813/-ChatDiary)  
 [방울이 - FE](https://github.com/Mouon/bangwool-frontend-android)  
+[알빠야? - BE : 학습용 토이 프로젝트](https://github.com/orgs/albbayaa/repositories)  
 
 ------------------------
 ### 🎓 UNIV learned..
