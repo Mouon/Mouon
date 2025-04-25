@@ -59,6 +59,7 @@ KUIT 2기 서버 파트 수료
 ------------------------
 
 ### 📚 Study Repository
+[📡 컴퓨터 네트워크 스터디 📡](https://github.com/Mouon/Computer-Networking_A-Top-Down-Approach-7th)  
 [⭐️ 스프링 부트 공부기록 ⭐️](https://github.com/Mouon/Mouon-SpringBoot-STUDY)  
 [JPA 공부 - 인프런 ](https://github.com/Mouon/SpringJPAStudy)  
 [알고리즘 공부 ](https://github.com/Mouon/Beakjune2024/tree/master)  
