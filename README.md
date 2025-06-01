@@ -96,7 +96,7 @@ KUIT 2기 서버 파트 수료
 
 ### 🚀 Stat   
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ahemsapsldk)](https://solved.ac/jsilver0819)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ahemsapsldk)](https://solved.ac/ahemsapsldk)  
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mouon&layout=compact&theme=dark"/>
 
