@@ -69,10 +69,11 @@ KUIT 2기 서버 파트 수료 (🏆최우수 프로젝트)
 
 
 #### Recently Posting  
-[스레드 세이프란??](https://github.com/Mouon/Mouon-SpringBoot-STUDY/tree/master/threadSafe)  
+[별거 없습니다. 프록시가 내 메서드를 무시하는 이유에 대해서.](https://github.com/Mouon/Mouon-SpringBoot-STUDY/blob/master/whyProxyIgnore/README.md)  
+[스레드 세이프에 대해 제가 한번 알려드릴까요?](https://github.com/Mouon/Mouon-SpringBoot-STUDY/tree/master/threadSafe)  
 [Caffeine Cache 구조 및 동시성 처리 적용2](https://github.com/Mouon/Mouon-SpringBoot-STUDY/blob/master/concurrency/README.md)  
 [Caffeine Cache 구조 및 동시성 처리 적용](https://github.com/Mouon/Mouon-SpringBoot-STUDY/blob/master/study/CaffeineCache.md)  
-[synchronized에서 분산락까지](https://github.com/Mouon/Mouon-SpringBoot-STUDY/blob/master/study/Redisson.md)  
+
 
 ------------------------
 
