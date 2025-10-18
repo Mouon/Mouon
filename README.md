@@ -16,8 +16,9 @@
 
 
 ### 🤝 SNS
-<a href="https://moon-kotlin.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a><a href="mailto:ahemsapsldk@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/>  
+
+<a href="mailto:ahemsapsldk@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/>  
+
 ------------------------
 
 ### 🏋🏻 Activity
