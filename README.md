@@ -84,7 +84,7 @@ KUIT 2기 서버 파트 수료 (🏆최우수 프로젝트)
 [챗 다이어리 - BE](https://github.com/Chat-Diary/BE)  
 [챗 다이어리 - behance](https://www.behance.net/gallery/192482813/-ChatDiary)  
 [방울이 - FE](https://github.com/Mouon/bangwool-frontend-android)  
-[BSideKorea](https://github.com/bsidekr)  
+[비사이드코리아 - BE](https://github.com/bsidekr)  
 
 ------------------------
 ### 🎓 UNIV learned..
