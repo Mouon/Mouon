@@ -80,12 +80,12 @@ KUIT 2기 서버 파트 수료 (🏆최우수 프로젝트)
 ------------------------
 
 ### 🔥 Projects Repository 
+[비사이드코리아 - BE](https://github.com/bsidekr)  
 [에어비엔짐 - BE](https://github.com/shinhanDsActeam/AirBnG)    
 [링코드 - BE](https://github.com/Linkode2024)    
 [챗 다이어리 - BE](https://github.com/Chat-Diary/BE)  
 [챗 다이어리 - behance](https://www.behance.net/gallery/192482813/-ChatDiary)  
 [방울이 - FE](https://github.com/Mouon/bangwool-frontend-android)  
-[비사이드코리아 - BE](https://github.com/bsidekr)  
 
 ------------------------
 ### 🎓 UNIV learned..
