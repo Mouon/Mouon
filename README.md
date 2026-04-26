@@ -63,6 +63,7 @@ KUIT 2기 서버 파트 수료 (🏆최우수 프로젝트)
 ------------------------
 
 ### 📚 Study Repository
+[RabbitMQ 스터디](https://github.com/Mouon/RabbitMQ-Study)  
 [⭐️ 스프링 부트 공부기록 ⭐️](https://github.com/Mouon/Mouon-SpringBoot-STUDY)  
 [JPA 공부 - 인프런 ](https://github.com/Mouon/SpringJPAStudy)  
 [알고리즘 공부 ](https://github.com/Mouon/Beakjune2024/tree/master)  
