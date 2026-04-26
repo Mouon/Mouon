@@ -4,9 +4,8 @@
 
 </h3> 
 
-<h1 align="center">안녕하세요! 🙌 배우는 것이 즐거운 개발자입니다!!  
+<h1 align="center">안녕하세요! 문제를 해결하는 것이 즐거운 개발자입니다!!  
   
-<h3 align="center"> Spring Boot를 주로 공부중 입니다! </h3>  
 
 <a href="https://github.com/Mouon">
     <img src="contributions.svg" />
@@ -64,7 +63,6 @@ KUIT 2기 서버 파트 수료 (🏆최우수 프로젝트)
 ------------------------
 
 ### 📚 Study Repository
-[📡 컴퓨터 네트워크 스터디 📡](https://github.com/Mouon/Computer-Networking_A-Top-Down-Approach-7th)  
 [⭐️ 스프링 부트 공부기록 ⭐️](https://github.com/Mouon/Mouon-SpringBoot-STUDY)  
 [JPA 공부 - 인프런 ](https://github.com/Mouon/SpringJPAStudy)  
 [알고리즘 공부 ](https://github.com/Mouon/Beakjune2024/tree/master)  
@@ -86,7 +84,7 @@ KUIT 2기 서버 파트 수료 (🏆최우수 프로젝트)
 [챗 다이어리 - BE](https://github.com/Chat-Diary/BE)  
 [챗 다이어리 - behance](https://www.behance.net/gallery/192482813/-ChatDiary)  
 [방울이 - FE](https://github.com/Mouon/bangwool-frontend-android)  
-[알빠야? - BE : 학습용 토이 프로젝트](https://github.com/albbayaa/ilil_Alba_project)  
+[BSideKorea](https://github.com/bsidekr)  
 
 ------------------------
 ### 🎓 UNIV learned..
