@@ -74,6 +74,7 @@ KUIT 2기 서버 파트 수료 (🏆최우수 프로젝트)
 
 
 #### Recently Posting  
+[SQS로 비동기처리 구현하기](https://github.com/Mouon/Mouon-SpringBoot-STUDY/tree/master/SQS)  
 [람다서버로 무거운 작업 분리하기](https://github.com/Mouon/Mouon-SpringBoot-STUDY/blob/master/lambda/README.md)  
 [별거 없습니다. 프록시가 내 메서드를 무시하는 이유에 대해서.](https://github.com/Mouon/Mouon-SpringBoot-STUDY/blob/master/whyProxyIgnore/README.md)  
 [스레드 세이프에 대해 제가 한번 알려드릴까요?](https://github.com/Mouon/Mouon-SpringBoot-STUDY/tree/master/threadSafe)  
