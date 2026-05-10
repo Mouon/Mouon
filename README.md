@@ -97,15 +97,6 @@ KUIT 2기 서버 파트 수료 (🏆최우수 프로젝트)
 [건국대 - 클라우드수업](https://github.com/everyCulture/everyoneCulture)  
 [건국대 - HCI 수업](https://github.com/NoNextYear/Android)
 
-------------------------
-
-### 🚀 Stat   
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mouon&layout=compact&theme=dark"/>
-
-------------------------
-
 
 
 
