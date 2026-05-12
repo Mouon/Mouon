@@ -4,7 +4,8 @@
 
 </h3> 
 
-<h1 align="center">안녕하세요! 문제를 해결하는 것이 즐거운 개발자입니다!!  
+<h1 align="center">안녕하세요! 문제를 해결하는 것이 즐거운 개발자입니다!! </h1>
+<h4 align="center">새로운 시도를 즐기고, 책임감있게 끝까지 맡은일을 완수합니다!</h4>
   
 
 <a href="https://github.com/Mouon">
