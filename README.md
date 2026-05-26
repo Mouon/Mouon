@@ -55,8 +55,8 @@ KUIT 2기 서버 파트 수료 (🏆최우수 프로젝트)
 
 ### 🏋🏻 Opensource Contribute 
 
-[QueryDSL-release](https://github.com/OpenFeign/querydsl/releases/tag/6.8)  
-[QueryDSL-PR#1460](https://github.com/OpenFeign/querydsl/pull/1460)  
+[QueryDSL-release-6.8](https://github.com/OpenFeign/querydsl/releases/tag/6.8)  
+[QueryDSL-release-7.2](https://github.com/OpenFeign/querydsl/releases/tag/7.2)  
 
 ------------------------  
 
