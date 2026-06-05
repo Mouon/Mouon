@@ -1,10 +1,11 @@
+<h1 align="center">안녕하세요! 문제를 해결하는 것이 즐거운 개발자입니다!! </h1>
+
 <h3 align="center">
 
 <img src="https://github.com/user-attachments/assets/612fd3a3-aefe-4968-9e94-e8706142e1e6" alt="MasterHead" width="70%">  
 
 </h3> 
 
-<h1 align="center">안녕하세요! 문제를 해결하는 것이 즐거운 개발자입니다!! </h1>
 <h4 align="center">새로운 시도를 즐기고, 책임감있게 끝까지 맡은일을 완수합니다!</h4>
   
 
