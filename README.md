@@ -1,6 +1,6 @@
 <h3 align="center">
 
-<img src="https://github.com/onamfc/onamfc/raw/main/img/get-wild.gif" alt="MasterHead" height="370" width="70%">  
+<img src="https://github.com/user-attachments/assets/612fd3a3-aefe-4968-9e94-e8706142e1e6" alt="MasterHead" width="70%">  
 
 </h3> 
 
